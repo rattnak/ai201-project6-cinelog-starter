@@ -4,7 +4,7 @@
 
 `git log --oneline` on `feature/watchlist`, relative to `origin/main`, after rewriting history (`git rebase -i`) into conventional, single-purpose commits with no merge commits:
 
-![git log --oneline showing 8 conventional commits with no merge commits](./git-log-screenshot.png)
+<img width="949" height="273" alt="Screenshot 2026-07-14 at 9 32 25 PM" src="https://github.com/user-attachments/assets/3df03963-8aab-4cdb-b04a-6639a8938977" />
 
 ## AI Usage
 <!-- Fill in at the end — how you used AI tools during this project -->
